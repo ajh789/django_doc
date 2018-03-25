@@ -5,7 +5,7 @@
 
 <table>
 <tr>
-<th>Attribute</th>
+<th>Name</th>
 <th>Description</th>
 <th>From</th>
 </tr>
