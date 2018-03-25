@@ -1,5 +1,8 @@
 # HttpRequest #
 [https://docs.djangoproject.com/en/2.0/ref/request-response/#django.http.HttpRequest](https://docs.djangoproject.com/en/2.0/ref/request-response/#django.http.HttpRequest)
+
+## Attributes ##
+
 <table>
 <tr>
 <th>Attribute</th>
@@ -7,6 +10,7 @@
 <th>From</th>
 </tr>
 
+<tr><td colspan='3'>Attributes set by middleware</td></tr>
 <tr>
 <td>user</td>
 <td>An instance of AUTH_USER_MODEL representing the currently logged-in user. If the user isn’t currently logged in, user will be set to an instance of AnonymousUser.</td>
