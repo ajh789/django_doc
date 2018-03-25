@@ -1,0 +1,2 @@
+# HttpRequest
+https://docs.djangoproject.com/en/2.0/ref/request-response/#django.http.HttpRequest
